@@ -1,0 +1,44 @@
+.main{
+	width:100%;
+	background-color: pink;
+	display:flex;
+	justify-content: center;
+	text-align: center;
+}
+.right{
+	width:80;
+	border:5px solid #2ef;
+	box-shadow: 5px 5px 5px black;
+	margin: 1px;
+	padding: 1%;
+	background-color: skyblue;
+}
+.left{
+	width:20;
+	border:5px solid #2df; 
+}
+img{
+	width:100;
+	border:5px solid #2ef;
+	box-shadow: 5px 5px 5px black;
+	margin: 1px;
+	padding: 1%;
+}
+h1,
+h2,
+h3{
+	font-size: 45px;
+}
+@media only screen and(max-width: 1024px){
+	.main{
+		display: flex;
+		flex-direction: column-reverse; 
+	}
+	.right{
+
+    }
+}
+table,tr,td{
+	border: 2px solid red;
+	border-collapse: collapse;
+}

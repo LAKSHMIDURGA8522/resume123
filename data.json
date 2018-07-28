@@ -1,0 +1,44 @@
+{
+	"details":{
+		"name":"lucky",
+		"image":"abc.png",
+		"phone":"2233445566",
+		"email":"lakshmilucky8522@gmail.com"
+	},
+	"education":[
+		{
+			"course":"B.Tech(CSE)",
+			"college":"MIC college",
+			"per":"70%"
+
+		},
+		{
+			"course":"Intermediate(MPC)",
+			"college":"Narayana college",
+			"per":"90%"
+		},
+		{
+			"course":"ssc",
+			"college":"RBPS",
+			"per":"88%"
+
+        }
+	],
+	"skills":[
+		{
+			"title":"programming languages",
+			"output":[
+				"C","C++","Java","Python"
+			]
+		},
+		{
+			"title":"Operating Systems",
+			"output":[
+				"windows","Linux","MAC"
+			]
+		} 
+	],
+	"carrier":{
+		"co":"Annotational things are the explanatory parts of UML models.These are the comments used to describe,illuminal about any element in a mode"
+	}	                                                       
+}
